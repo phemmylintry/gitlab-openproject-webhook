@@ -1,0 +1,3 @@
+[submodule "openproject-python-sdk"]
+	path = openproject-python-sdk
+	url = https://github.com/withlogicco/openproject-python-sdk.git
